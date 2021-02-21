@@ -1,0 +1,11 @@
+.Cards{
+    display: flex;
+    margin: auto;
+    min-width: 700px;
+    max-width: 900px;
+}
+
+.Card{
+    margin: 10px;
+    min-width: 230px;
+}
